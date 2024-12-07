@@ -1,8 +1,8 @@
-a = 0
-b = 0
-c = 0
-if not a and b and c:
-    print("All number have a boolean value of false")
+a = 1
+b = 1
+c = 1
+if  a and b and c:
+    print("All number have a boolean value of true")
 else:
     print("Atleast one number has a boolean value of false")
 a = 10
